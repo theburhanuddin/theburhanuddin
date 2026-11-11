@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Burhanuddin 👋
 
-<!--
-**theburhanuddin/theburhanuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm a BCA student interested in programming, software development, Data Science and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Python and exploring how data can be used to solve real-world problems through technology.
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 💻 Learning Python Programming
+- 📊 Interested in Data Science and Data Analytics
+- 🌱 Exploring Software Development
+- 🎯 Building practical projects
+- 🤝 Interested in learning and collaborating
+
+## 🛠️ Skills & Technologies
+
+- Python
+- Kotlin
+- Streamlit
+- Git & GitHub
+- HTML & CSS
+
+## 📊 Areas of Interest
+
+- Data Science
+- Data Analytics
+- Python Programming
+- Data Visualization
+- Artificial Intelligence
+- Software Development
+
+## 📌 Featured Projects
+
+### AI Resume Analyzer
+
+A Python and Streamlit application that:
+- Extracts text from PDF resumes
+- Detects technical skills
+- Matches resume skills with job requirements
+- Calculates job match percentage
+- Suggests resume improvements
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Science Fundamentals
+- Data Analysis
+- Problem Solving
+- Git & GitHub
+
+## 🎯 My Goal
+
+To become a skilled software developer and explore opportunities in Data Science by building practical projects and continuously learning new technologies.
